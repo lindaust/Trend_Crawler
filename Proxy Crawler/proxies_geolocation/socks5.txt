@@ -1,0 +1,89 @@
+5.180.180.16:1080::Israel::None::None
+27.44.223.85:34059::China::Guangdong::Guangzhou
+27.66.252.68:1080::Vietnam::Haiphong::Haiphong
+27.66.252.76:1080::Vietnam::Haiphong::Haiphong
+27.116.51.85:6667::India::Gujarat::Anand
+27.116.51.119:6667::India::Gujarat::Anand
+31.25.243.40:9530::Russia::None::None
+31.25.243.40:9547::Russia::None::None
+34.92.153.187:1080::Hong Kong::Central and Western District::Central
+35.201.142.139:10000::Taiwan::New Taipei::New Taipei
+39.108.100.34:1080::China::Guangdong::Shenzhen
+39.108.227.141:1080::China::Guangdong::Shenzhen
+43.129.168.101:1080::Hong Kong::Central and Western District::Central
+43.129.209.150:1080::Hong Kong::Central and Western District::Central
+43.224.10.35:6667::India::Gujarat::Khambhat
+45.79.252.252:4145::United States::Georgia::Atlanta
+45.128.135.250:8181::Netherlands::North Holland::Amsterdam
+47.243.113.170:25503::Hong Kong::Central and Western District::Central
+47.243.173.121:25503::Hong Kong::Central and Western District::Central
+49.83.249.119:1080::United States::None::None
+51.81.31.66:58844::United States::Texas::Diana
+52.175.21.231:1080::Hong Kong::Central and Western District::Central
+59.61.160.50:16790::China::Fujian::Fuzhou
+59.61.160.193:16790::China::Fujian::Fuzhou
+59.61.160.245:16790::China::Fujian::Fuzhou
+59.61.161.184:16790::China::Fujian::Fuzhou
+77.243.108.132:1999::Russia::Moscow::Moscow
+87.247.185.94:1080::United Arab Emirates::None::None
+94.189.227.134:1080::Serbia::Belgrade::Belgrade
+97.74.230.87:31365::United States::None::None
+103.41.204.68:1080::Indonesia::None::None
+103.56.55.190:8081::Japan::Ōsaka::Osaka
+103.85.232.146:1080::Bangladesh::Dhaka Division::Dhaka
+103.90.231.93:9090::Vietnam::Tây Ninh Province::Ben Cau
+103.216.82.153:6667::India::Rajasthan::Udaipur
+103.231.241.102:1080::Philippines::None::None
+103.241.227.100:6667::India::Gujarat::Ahmedabad
+104.238.97.215:16398::United States::None::None
+104.255.170.63:53483::United States::Oregon::Bend
+104.255.170.63:64501::United States::Oregon::Bend
+104.255.170.64:64501::United States::Oregon::Bend
+109.72.231.37:1080::Russia::Moscow::Moscow
+111.175.66.64:1080::China::Hubei::Wuhan
+113.160.188.21:1080::Vietnam::Hanoi::Hanoi
+114.86.133.5:7890::China::Shanghai::Zhabei
+116.63.137.83:16161::China::None::None
+117.27.76.153:1080::United States::California::San Jose
+118.140.253.210:1080::Hong Kong::None::Cheung Sha Lan
+120.196.228.99:1080::China::None::None
+120.196.237.162:1080::China::None::None
+120.236.254.177:1080::China::None::None
+123.18.206.50:1080::Vietnam::Tinh Tuyen Quang::Son Duong
+123.129.99.19:1080::China::Shandong::Dongying
+123.129.219.11:1080::China::Beijing::Beijing
+123.129.219.228:1080::China::Beijing::Beijing
+128.199.14.67:12007::United States::California::Santa Clara
+132.148.12.193:8000::United States::None::None
+135.125.217.112:55000::France::None::None
+139.99.117.188:1080::Singapore::None::Singapore
+139.196.236.231:7890::Macao::None::None
+139.198.15.159:8814::China::None::None
+143.198.231.168:1080::United States::California::Santa Clara
+151.106.34.139:1080::France::Hauts-de-France::Roubaix
+153.99.8.69:38801::China::Jiangsu::Shuanghe
+157.245.147.1:1080::Singapore::None::Singapore
+159.65.225.8:54378::United States::New Jersey::North Bergen
+162.55.103.230:1081::Germany::None::None
+162.144.64.112:15565::United States::None::None
+162.144.64.112:26411::United States::None::None
+162.144.64.112:56857::United States::None::None
+163.172.26.116:17324::France::None::None
+165.22.223.92:1718::India::Karnataka::Bengaluru
+173.244.200.159:61821::United States::California::San Diego
+181.3.69.168:1080::Argentina::Tucuman::San Miguel de Tucumán
+182.111.141.82:17754::China::Jiangxi::Xinyu
+185.107.82.172:3128::Netherlands::None::None
+185.179.196.19:1083::Russia::St.-Petersburg::St Petersburg
+188.166.104.152:51369::Netherlands::North Holland::Amsterdam
+192.99.247.190:4145::Canada::None::None
+192.241.240.98:26630::United States::New York::New York
+195.158.197.13:1043::Ukraine::Kyiv City::Kyiv
+198.12.255.100:41314::United States::Virginia::Ashburn
+198.199.86.148:23479::United States::New Jersey::North Bergen
+198.199.86.148:36404::United States::New Jersey::North Bergen
+202.95.11.216:1080::Singapore::None::None
+212.227.30.76:9000::Germany::Rheinland-Pfalz::Katzenelnbogen
+217.147.175.20:1088::Ukraine::None::None
+221.141.87.130:1080::South Korea::Ulsan::Ulsan
+222.187.168.41:1080::Japan::Tokyo::Tokyo
